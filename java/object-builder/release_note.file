@@ -1,0 +1,3 @@
+[version: 1.0.2]
+1. 修改BaseRepository和BaseService，去掉了ID类型的泛型，直接限定了类型为Integer；
+2. 增加用于一键处理的三个工具类和一盒相关参数体。
