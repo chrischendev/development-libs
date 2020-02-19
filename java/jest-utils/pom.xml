@@ -10,7 +10,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <nexus.url>maven.ai-ways.com</nexus.url>
+        <nexus.url>nexus.chris.com:8081</nexus.url>
         <elasticsearch.version>6.5.4</elasticsearch.version>
         <searchbox.jest.version>5.3.3</searchbox.jest.version>
     </properties>
